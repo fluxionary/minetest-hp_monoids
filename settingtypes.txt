@@ -1,0 +1,3 @@
+hp_monoids:default_hp_max (default max HP) int 20 1
+
+hp_monoids:heal_tick (heal tick) int 30 1
